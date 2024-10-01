@@ -1,7 +1,3 @@
-Aquí tienes una propuesta para el archivo README que puedes utilizar como introducción a tu repositorio de trabajos prácticos de IA:
-
----
-
 # Repositorio de Trabajos Prácticos de Inteligencia Artificial
 
 Este repositorio contiene los trabajos prácticos desarrollados durante el curso de **Inteligencia Artificial**. Los ejercicios abarcan diferentes temas y técnicas aplicadas en el campo de la IA, como búsqueda de soluciones, representación del conocimiento y juegos interactivos. Cada carpeta representa un trabajo práctico independiente con sus respectivos archivos de código, librerías necesarias y explicaciones.
