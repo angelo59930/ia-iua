@@ -22,8 +22,9 @@ Este repositorio contiene los trabajos prácticos desarrollados durante el curso
     - `runner.py`: Archivo que ejecuta el juego en una interfaz gráfica.
     - `requirements.txt`: Lista las dependencias necesarias para ejecutar el juego.
 
-- **Tp3: Por Definir**
-  - Esta carpeta está actualmente vacía y será utilizada para un trabajo práctico futuro.
+- [**Tp3: Shopping & Nim Game**](Tp3/README.md)
+  - [**Shopping**](Tp3/README.md#shopping): Implementación de un algoritmo de búsqueda para encontrar la mejor combinación de productos que se ajuste a un presupuesto.
+  - [**Nim Game**](Tp3/README.md#nim-game): Implementación de un juego interactivo de Nim, donde el jugador compite contra una IA.
 
 - **Tp4: Por Definir**
   - Similarmente, esta carpeta aún no contiene archivos y está reservada para un próximo trabajo práctico.
