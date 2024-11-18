@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/363906655409342922/8e159ccb6cc243c4bf3ab2d6e854b295/artifacts
+end_time: 1731889810146
+entry_point_name: ''
+experiment_id: '363906655409342922'
+lifecycle_stage: active
+run_id: 8e159ccb6cc243c4bf3ab2d6e854b295
+run_name: upset-ape-485
+run_uuid: 8e159ccb6cc243c4bf3ab2d6e854b295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731889807553
+status: 3
+tags: []
+user_id: root

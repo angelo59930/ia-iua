@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/363906655409342922/732c60fa20c74f0c8eec67104ae59c1f/artifacts
+deleted_time: 1731889376027
+end_time: 1731889341823
+entry_point_name: ''
+experiment_id: '363906655409342922'
+lifecycle_stage: deleted
+run_id: 732c60fa20c74f0c8eec67104ae59c1f
+run_name: silent-jay-61
+run_uuid: 732c60fa20c74f0c8eec67104ae59c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731889183900
+status: 4
+tags: []
+user_id: root

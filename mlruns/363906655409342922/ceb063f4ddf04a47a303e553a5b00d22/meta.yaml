@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/363906655409342922/ceb063f4ddf04a47a303e553a5b00d22/artifacts
+end_time: 1731889773857
+entry_point_name: ''
+experiment_id: '363906655409342922'
+lifecycle_stage: active
+run_id: ceb063f4ddf04a47a303e553a5b00d22
+run_name: adaptable-dog-12
+run_uuid: ceb063f4ddf04a47a303e553a5b00d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731889771650
+status: 3
+tags: []
+user_id: root

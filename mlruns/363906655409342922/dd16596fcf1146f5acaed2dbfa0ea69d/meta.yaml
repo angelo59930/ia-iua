@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/363906655409342922/dd16596fcf1146f5acaed2dbfa0ea69d/artifacts
+deleted_time: 1731889376027
+end_time: 1731888846115
+entry_point_name: ''
+experiment_id: '363906655409342922'
+lifecycle_stage: deleted
+run_id: dd16596fcf1146f5acaed2dbfa0ea69d
+run_name: bald-fish-26
+run_uuid: dd16596fcf1146f5acaed2dbfa0ea69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731888692919
+status: 3
+tags: []
+user_id: root
